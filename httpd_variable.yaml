@@ -1,0 +1,3 @@
+dvd_dir: "/myDVD"
+httpd_port: 81
+doc_root: "/var/www/lw"
